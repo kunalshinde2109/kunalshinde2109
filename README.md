@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋 I'm Kunal Shinde
 
-<!--
-**kunalshinde2109/kunalshinde2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst with a strong interest in Data Analysis, Data Visualization, and Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have learned and practiced:
+- 🐍 Python
+- 🗄️ MySQL
+- 📊 Power BI
+- 📗 Microsoft Excel
+- 📈 Data Analytics
+
+## 🛠️ Skills
+
+- Python
+- MySQL
+- Power BI
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
+
+## 📂 Projects & Assignments
+
+I regularly practice Data Analytics concepts through:
+- Python Programs
+- MySQL Queries
+- Excel Assignments
+- Power BI Dashboards
+- Data Analysis Projects
+
+## 🎯 Career Goal
+
+My goal is to build a career as a Data Analyst and continuously improve my technical and analytical skills.
+
+## 📫 Connect With Me
+
+GitHub: @kunalshinde2109
